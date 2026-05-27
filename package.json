@@ -1,0 +1,24 @@
+{
+  "name": "crispj-github-io",
+  "private": true,
+  "scripts": {
+    "build": "vp build",
+    "dev": "vp dev",
+    "preview": "vp preview"
+  },
+  "dependencies": {
+    "@unocss/reset": "^66.7.0",
+    "nprogress": "^0.2.0",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.19",
+    "@types/nprogress": "^0.2.3",
+    "@vitejs/plugin-vue": "^6.0.7",
+    "unocss": "^66.7.0",
+    "vite": "catalog:",
+    "vite-plus": "catalog:"
+  },
+  "packageManager": "pnpm@11.3.0"
+}
